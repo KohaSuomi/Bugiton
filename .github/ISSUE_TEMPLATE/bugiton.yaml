@@ -8,6 +8,7 @@ body:
     description: Lisää linkki yhteisön bugzillaan ja lyhyt kuvaus siitä.
   validations:
     required: false
+ - type: textarea
   attributes:
     label: Jotain muuta?
     description: |
