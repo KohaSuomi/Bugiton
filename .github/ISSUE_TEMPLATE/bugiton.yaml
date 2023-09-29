@@ -1,0 +1,17 @@
+name: Bugiton
+description: Kirjaa ylös, mitä yhteisön bugia käsitellään. Linkki bugzillaan ja lyhyt kuvaus testattavasta korjauksesta/toiminnallisuudesta.
+labels: [bug]
+body:
+- type: textarea
+  attributes:
+    label: Yhteisön bugi Bugzillassa
+    description: Lisää linkki yhteisön bugzillaan ja lyhyt kuvaus siitä.
+  validations:
+    required: false
+  attributes:
+    label: Jotain muuta?
+    description: |
+     Lisätietoja aiheesta.
+      Vinkki: Voit liittää kuvia tai tiedostoja klikkaamalla tätä aluetta ja vetämällä kuvan tai tiedoston tänne.
+  validations:
+    required: false
