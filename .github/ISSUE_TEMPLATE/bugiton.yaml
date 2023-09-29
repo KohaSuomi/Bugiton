@@ -11,6 +11,6 @@ body:
 - type: textarea
   attributes:
     label: Jotain muuta?
-    description: Lisätietoja aiheesta. Vinkki: Voit liittää kuvia tai tiedostoja klikkaamalla tätä aluetta ja vetämällä kuvan tai tiedoston tänne.
+    description: Lisätietoja aiheesta. Voit liittää kuvia tai tiedostoja klikkaamalla tätä aluetta ja vetämällä kuvan tai tiedoston tänne.
   validations:
     required: false
