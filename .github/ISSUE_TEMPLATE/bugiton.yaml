@@ -2,7 +2,7 @@ name: Bugiton
 description: Kirjaa ylös, mitä yhteisön bugia käsitellään. Linkki bugzillaan ja lyhyt kuvaus testattavasta korjauksesta/toiminnallisuudesta.
 labels: [bug]
 body:
-- type: textarea
+ - type: textarea
   attributes:
     label: Yhteisön bugi Bugzillassa
     description: Lisää linkki yhteisön bugzillaan ja lyhyt kuvaus siitä.
